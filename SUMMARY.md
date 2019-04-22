@@ -1,25 +1,22 @@
 # Table of contents
 
-* [Honda Transalp XL400V](README.md)
+* [Honda Transalp](README.md)
 
-## Motorcycle Safety
+## Owner's Manual
 
-* [Safe Riding Rules](om01/01.md)
-* [Protective Apparel](om01/02.md)
-* [Modifications](om01/03.md)
-* [Loading and Accessories](om01/04.md)
-* [Off-road Safety](om01/05.md)
-
-## Parts Location
-
-* [Instruments and Indicators](om02/01.md)
-
-## Major Components ⚠️
-
-* [Brakes](om03/01.md)
-* [Clutch](om03/02.md)
-* [Coolant](om03/03.md)
-* [Fuel](om03/04.md)
-* [Engine Oil](om03/05.md)
-* [Tyres](om03/06.md)
+* [Motorcycle Safety](owner/01/README.md)
+  * [Safe Riding Rules](owner/01/01.md)
+  * [Protective Apparel](owner/01/02.md)
+  * [Modifications](owner/01/03.md)
+  * [Loading and Accessories](owner/01/04.md)
+  * [Off-road Safety](owner/01/05.md)
+* [Parts Location](owner/02/README.md)
+  * [Instruments and Indicators](owner/02/01.md)
+* [Major Components ⚠️](owner/03/README.md)
+  * [Brakes](owner/03/01.md)
+  * [Clutch](owner/03/02.md)
+  * [Coolant](owner/03/03.md)
+  * [Fuel](owner/03/04.md)
+  * [Engine Oil](owner/03/05.md)
+  * [Tyres](owner/03/06.md)
 
