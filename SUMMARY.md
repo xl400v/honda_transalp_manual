@@ -4,6 +4,7 @@
 
 ## Owner's Manual
 
+* [Welcome](owner/00.md)
 * [Motorcycle Safety](owner/01/README.md)
   * [Safe Riding Rules](owner/01/01.md)
   * [Protective Apparel](owner/01/02.md)

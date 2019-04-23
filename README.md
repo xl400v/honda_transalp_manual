@@ -1,6 +1,7 @@
 ---
 description: >-
-  This manual should be considered a permanent part of the motorcycle and should remain with the motorcycle when resold.
+  This manual should be considered a permanent part of the motorcycle and should
+  remain with the motorcycle when resold.
 ---
 
 # Honda Transalp
@@ -55,76 +56,18 @@ When service is required, remember that your Honda dealer knows your motorcycle 
 * The illustrations and photos herein are based on the XL600V model G type.
 * Following codes in this manual indicate each country.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">NO Frame</th>
-      <th style="text-align:left">Country</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">ND06-1000001 ~
-        <br />ND06-1100001 ~</td>
-      <td style="text-align:left">Japan '91 (XL400VN/2)
-        <br />Japan '94 (XL400VR/2)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">E</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">UK</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">G</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">Germany
-        <br />Sweden
-        <br />Finland
-        <br />Norway
-        <br />Denmark</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">F</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">France</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SP</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">Spain</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">AR</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">Austria</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">IT</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">Italy
-        <br />Belguim
-        <br />Holland
-        <br />Portugal</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">II&nbsp;G</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Germany (Type&nbsp;II)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">II&nbsp;IT</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Italy (Type&nbsp;II)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SW</td>
-      <td style="text-align:left">PD06-0000001 ~</td>
-      <td style="text-align:left">Switzerland</td>
-    </tr>
-  </tbody>
-</table>
+| Type | NO Frame | Country |
+| :--- | :--- | :--- |
+| - | ND06-1000001 ~ ND06-1100001 ~ | Japan '91 \(XL400VN/2\) Japan '94 \(XL400VR/2\) |
+| E | PD06-0000001 ~ | UK |
+| G | PD06-0000001 ~ | Germany Sweden Finland Norway Denmark |
+| F | PD06-0000001 ~ | France |
+| SP | PD06-0000001 ~ | Spain |
+| AR | PD06-0000001 ~ | Austria |
+| IT | PD06-0000001 ~ | Italy Belguim Holland Portugal |
+| II G |  | Germany \(Type II\) |
+| II IT |  | Italy \(Type II\) |
+| SW | PD06-0000001 ~ | Switzerland |
 
 {% hint style="info" %}
 The specifications may vary with each locate.
