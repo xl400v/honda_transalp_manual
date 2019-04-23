@@ -66,10 +66,8 @@ When service is required, remember that your Honda dealer knows your motorcycle 
   <tbody>
     <tr>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">
-        <p>ND06-1000001 ~</p>
-        <p>ND06-1100001 ~</p>
-      </td>
+      <td style="text-align:left">ND06-1000001 ~
+        <br />ND06-1100001 ~</td>
       <td style="text-align:left">Japan '91 (XL400VN/2)
         <br />Japan '94 (XL400VR/2)</td>
     </tr>
