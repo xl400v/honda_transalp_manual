@@ -1,6 +1,7 @@
 # Motorcycle Safety
 
 {% hint style="danger" %}
+**Warning**  
 Motorcycle riding requires special efforts on your part to ensure your safety. Know there requirements before you ride:
 {% endhint %}
 
