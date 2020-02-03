@@ -17,6 +17,10 @@
 | owners-manual/03/05 | 1 | 1 | 0 |
 | owners-manual/03/06 | 0 | 0 | 1* |
 | owners-manual/03/readme | 0 | 1 | 0 |
+| owners-manual/04/01 | 1 | 0 | 1 |
+| owners-manual/04/02 | 1 | 0 | 0 |
+| owners-manual/04/03 | 1 | 0 | 0 |
+| owners-manual/04/readme | 0 | 0 | 0 |
 | owners-manual/00 | 0 | 0 | 1* |
 | readme | 1 | 0 | 0 |
 
