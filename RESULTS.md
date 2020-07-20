@@ -21,6 +21,12 @@
 | owners-manual/04/02 | 1 | 0 | 0 |
 | owners-manual/04/03 | 1 | 0 | 0 |
 | owners-manual/04/readme | 0 | 0 | 0 |
+| owners-manual/05/01 | 1 | 0 | 0 |
+| owners-manual/05/02 | 1 | 0 | 0 |
+| owners-manual/05/03 | 1 | 0 | 0 |
+| owners-manual/05/04 | 1 | 0 | 0 |
+| owners-manual/05/05 | 1 | 0 | 0 |
+| owners-manual/05/readme | 0 | 0 | 0 |
 | owners-manual/00 | 0 | 0 | 1* |
 | readme | 1 | 0 | 0 |
 
