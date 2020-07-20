@@ -25,3 +25,9 @@
   * [Right Handlebar Control](owners-manual/04/02.md)
   * [Left Handlebar Control](owners-manual/04/03.md)
 * [Features](owners-manual/05/README.md)
+  * [Steering Lock](owners-manual/05/01.md)
+  * [Helmet Holder](owners-manual/05/02.md)
+  * [Side Cover](owners-manual/05/03.md)
+  * [Document Bag](owners-manual/05/04.md)
+  * [Seat](owners-manual/05/05.md)
+
