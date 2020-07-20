@@ -20,8 +20,8 @@
   * [Fuel](owners-manual/03/04.md)
   * [Engine Oil](owners-manual/03/05.md)
   * [Tyres](owners-manual/03/06.md)
-* [Essential Individual Components](04/README.md)
-  * [Ignition Switch](04/01.md)
-  * [Right Handlebar Control](04/02.md)
-  * [Left Handlebar Control](04/03.md)
-
+* [Essential Individual Components](owners-manual/04/README.md)
+  * [Ignition Switch](owners-manual/04/01.md)
+  * [Right Handlebar Control](owners-manual/04/02.md)
+  * [Left Handlebar Control](owners-manual/04/03.md)
+* [Features](owners-manual/05/README.md)
