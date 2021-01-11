@@ -30,4 +30,7 @@
   * [Side Cover](owners-manual/05/03.md)
   * [Document Bag](owners-manual/05/04.md)
   * [Seat](owners-manual/05/05.md)
+* [Opetation](owners-manual/06/README.md)
+  * [Starting the Engine](owners-manual/06/01.md)
+  * [Starting Procedure](owners-manual/06/02.md)
 

@@ -6,7 +6,7 @@ description: Information you need to operate this motorcycle
 
 {% hint style="danger" %}
 **Warning**  
-If the Pre-ride Inspection [\[see page\]](https://xl400v.gitbook.io/honda-transalp/owners-manual/06) is not performed, severe personal injury or vehicle damage may result.
+If the Pre-ride Inspection [\[see part\]](https://xl400v.gitbook.io/honda-transalp/owners-manual/06) is not performed, severe personal injury or vehicle damage may result.
 {% endhint %}
 
 {% page-ref page="01.md" %}
