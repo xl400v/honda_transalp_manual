@@ -32,5 +32,9 @@
   * [Seat](owners-manual/05/05.md)
 * [Opetation](owners-manual/06/README.md)
   * [Starting the Engine](owners-manual/06/01.md)
-  * [Starting Procedure](owners-manual/06/02.md)
+  * [Running-In](owners-manual/06/02.md)
+  * [Riding](owners-manual/06/03.md)
+  * [Braking](owners-manual/06/04.md)
+  * [Parking](owners-manual/06/05.md)
+  * [Anti-Theft Tips](owners-manual/06/06.md)
 
