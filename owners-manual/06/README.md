@@ -27,5 +27,11 @@ Correct any discrepancy before you ride. Contact your authorized Honda dealer fo
 
 {% page-ref page="02.md" %}
 
+{% page-ref page="03.md" %}
 
+{% page-ref page="04.md" %}
+
+{% page-ref page="05.md" %}
+
+{% page-ref page="06.md" %}
 
